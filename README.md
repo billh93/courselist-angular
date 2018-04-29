@@ -1,27 +1,23 @@
-# CourseList
+# courseList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+## What It Is
+This project utilizes Angular 5, Bootstrap 4 and Firebase to receive data from the database
+and display them on the webpage in real time. Showcasing my proficiency with the technologies.
 
-## Development server
+## Required Libraries and Dependencies
+* Internet Connected Device
+* Modern Web Browser
+* Google Maps API
+* Install Angular CLI `npm install -g @angular/cli`
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Basic Instructions
+1. Download the zip to a directory you'll be working in.
+2. Unzip the file.
+3. Run `ng serve` for a dev server.
+4. Navigate to http://localhost:4200/.
+5. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Resources Used:
+* Angular Official Documentation
+* Google Maps API Documentation
+* StackOverflow
