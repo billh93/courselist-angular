@@ -7,7 +7,7 @@ and display them on the webpage in real time. Showcasing my proficiency with the
 ## Required Libraries and Dependencies
 * Internet Connected Device
 * Modern Web Browser
-* Google Maps API
+* Firebase API
 * Install Angular CLI `npm install -g @angular/cli`
 
 ## Basic Instructions
@@ -19,5 +19,5 @@ and display them on the webpage in real time. Showcasing my proficiency with the
 
 ## Resources Used:
 * Angular Official Documentation
-* Google Maps API Documentation
+* Firebase API Documentation
 * StackOverflow
